@@ -12,8 +12,8 @@ The main result of this project is the use of different techniques in the data p
 
 ## Technical Details
 
-- **Dataset**: The dataset weather_data.csv contains around 7,000 rows and 23 columns. 
--**Data Exploration**: Performed basic data exploration, such as checking data types, null values, and duplicates.
+- **Dataset**: The dataset weather_data.csv contains around 7,000 rows and 23 columns.  
+- **Data Exploration**: Performed basic data exploration, such as checking data types, null values, and duplicates.
 - **Feature Engineering**: Includes one-hot encoding for categorical variables and Min-Max Scaling for numerical data.
 - **Imputation**: Missing values are imputed using K-Nearest Neighbors (KNN).
 - **Feature Selection**: Selected features using statistical methods to enhance model performance.
