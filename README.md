@@ -36,7 +36,7 @@ Additionally, learning curves are plotted to check for potential overfitting.
 
 ## Impact
 
-Achieved 93% coefficient of determination performance, delivering highly accurate weather forecasts that support better planning and decision-making for local authorities and businesses in Seoul.
+Achieved a coefficient of determination (R²) of 93%, indicating strong explanatory power of the model over weather variability in Seoul.  
 
 ## Visuals
 
